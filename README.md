@@ -31,14 +31,27 @@ THEN I find a concise, descriptive title
 
 ## Grading Requirements
 
-​	Technical Acceptance Criteria: 40%
+* **Technical Acceptance Criteria: 40%**
+  * Satisfies all of the preceding acceptance criteria plus the following code improvements:
+    * Application's links all function correctly.
+    * Application's CSS selectors and properties are consolidated and organized to follow semantic structure.
+    * Application's CSS file is properly commented.
+* **Deployment: 32%**
+  * Application deployed at live URL
+  * Application loads w no errors
+  * Application GitHub URL submitted
+  * GitHub repo that contains application code
+* **Application Quality: 15%**
+  * Application resembles (at least 90%) screenshots provided in challenge instructions
+* **Repository Quality: 13%**
+  * Repository has a unique name.
+  * Repository follows best practices for file structure and naming conventions
+  * Repository contains multiple descriptive commit messages
+  * Repository contains quality README file with description, screenshot, and link to deployed application.
 
-​		Satisfies all of the preceding acceptance criteria plus the following code improvements:
+## Submission Requirements
 
-​			Application's links all function correctly.
+You are required to submit BOTH for review
 
-​			Application's CSS selectors and properties are consolidated and organized to follow
-​			semantic structure.
-
-​			Application's CSS file is properly commented.
-
+* URL of deployed application
+* URL of GitHub repo the contains code. Give repo a unique name and include a README file that described the project
