@@ -9,6 +9,17 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Utility CSS Styles */
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
 /* Header and Navigation Menu Styling */
 header {
     padding: 20px;
@@ -63,17 +74,7 @@ p {
     background-position: center;
 }
 
-/* Utility CSS Styles */
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
+/* Services Styling - Left Side Content */
 .content {
     width: 75%;
     display: inline-block;
@@ -98,6 +99,7 @@ p {
     font-size: 36px;
 }
 
+/* Benefits Styling - Right Side Content */
 #benefits {
     margin-right: 20px;
     padding: 20px;
